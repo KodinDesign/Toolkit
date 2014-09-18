@@ -1,0 +1,13 @@
+{
+  "name": "toolkit",
+  "version": "1.0.0",
+  "description": "Project workspace for quick automated LESS file compiling",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-less": "~0.7.0",
+    "grunt-contrib-watch": "~0.5.3"
+  },
+  "author": "Reno Philibert",
+  "license": "MIT"
+}
